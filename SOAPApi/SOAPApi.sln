@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPApi", "SOAPApi\SOAPApi.csproj", "{BF62CBEF-45F8-41C7-AEAF-67A7E0846745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF62CBEF-45F8-41C7-AEAF-67A7E0846745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF62CBEF-45F8-41C7-AEAF-67A7E0846745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF62CBEF-45F8-41C7-AEAF-67A7E0846745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF62CBEF-45F8-41C7-AEAF-67A7E0846745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52EC943-01B3-4915-ABE2-DC9EF757CD10}
+	EndGlobalSection
+EndGlobal
